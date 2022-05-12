@@ -2,6 +2,8 @@
 
 #
 # This is a template for bash scripts
+# By Eric Kincl
+# https://github.com/Hobadee/templates
 #
 
 
